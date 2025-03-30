@@ -1,7 +1,6 @@
 {
   "name": "MyPortfolio",
   "private": false,
-  "homepage": "https://github.com/Yuriy-Chernov/MyPortfolio",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
